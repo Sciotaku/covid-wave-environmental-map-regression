@@ -9,3 +9,4 @@ numpy==1.20.3
 geopandas==0.6.1
 scikit_learn==0.24.2
 gunicorn>=19.7.1
+werkzeug==0.16.1
